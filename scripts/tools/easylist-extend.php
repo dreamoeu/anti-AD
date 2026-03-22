@@ -286,6 +286,7 @@ $ARR_WHITE_RULE_LIST = array(
     '@@||tube.e.kuaishou.com^' => 1, // #1063
     '@@||widgets.wp.com^' => 1, // #1071
     '@@||analysis.windows.net^' => 1, // #1097
+    '@@||widget.tianqiapi.com^' => 1, // #1112
 );
 
 //针对上游赦免规则anti-AD不予赦免的规则，即赦免名单的黑名单
