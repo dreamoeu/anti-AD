@@ -1,4 +1,4 @@
-! easylist-0 2026-03-28 19:04:50 UTC
+! easylist-0 2026-03-31 19:31:45 UTC
 ! https://easylist-downloads.adblockplus.org/easylist.txt
 @@||2chmatome2.jp/images/sp/320x250.png$~third-party
 @@||abcnews.com/assets/js/prebid.min.js$~third-party
@@ -29,6 +29,7 @@
 @@||ads.tiktok.com^$popup
 @@||ads.twitter.com^$popup
 @@||ads.vk.com^$popup
+@@||ads.vk.ru^$popup
 @@||ads.x.com^$popup
 @@||adsales.snidigital.com/*/ads-config.min.js$script
 @@||adv.asahi.com^$popup
@@ -293,7 +294,7 @@
 @@||youchien.net/css/ad_side.css$~third-party
 @@||yuru-mbti.com/static/css/adsense.css$~third-party
 @@||zeebiz.com/ads/$image,~third-party
-! easylist-1 2026-03-28 19:04:50 UTC
+! easylist-1 2026-03-31 19:31:46 UTC
 ! https://filters.adtidy.org/windows/filters/224_optimized.txt
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
@@ -817,11 +818,11 @@
 @@||yunjiema.top/static/js/wpsafelink.js
 @@||zjjcxy.cn^*/ad.css?$stylesheet
 @@||zpmobi.cn^*/ad.css?$stylesheet
-! easylist-2 2026-03-28 19:04:52 UTC
+! easylist-2 2026-03-31 19:31:48 UTC
 ! https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 @@||lancdn.com/landian/public/js/ads.js
 @@||th7.cn/sanda2015/css/ads.js
-! easylist-3 2026-03-28 19:04:52 UTC
+! easylist-3 2026-03-31 19:31:48 UTC
 ! https://easylist.to/easylist/fanboy-annoyance.txt
 @@||192.168.*/privacy_policy.js$~third-party
 @@||3332222.ru/cookie-popup.$~third-party
@@ -913,6 +914,7 @@
 @@||embedplus.com/iframe-cookie-consent.aspx$subdocument
 @@||emedicoz.com/src/view/PrivacyPolicy/Privacypolicy.jsx$~third-party
 @@||ems.entega.de/js/lib/cookieconsent.js$~third-party
+@@||energie-aanbiedingen.com/dist/assets/cookiebar.js$script,~third-party
 @@||enumizmatyczny.pl/modules/hifacebookconnect/$image
 @@||eok.ee/javascripts/cookiebar.js$~third-party
 @@||erlebnissennerei-zillertal.at/typo3conf/ext/bh/Resources/*/cookie-popup.$~third-party
@@ -1141,6 +1143,7 @@
 @@||topocentras.lt/js/CookieConsent-$~third-party
 @@||topschool.pl/wp-content/plugins/CookieInfo/js/CookieInfo.js$script
 @@||tosdr.org/logo/$image
+@@||tradefixdirect.com/app/plugins/upperdog-analytics/assets/js/cookie-popup.js$script,~third-party
 @@||trafficengland.com/resources/
 @@||travelodge.co.uk/nw/assets/dist/js/modules/cookieCompliance.js$~third-party
 @@||trinitymedia.ai/player/$script,subdocument
@@ -1179,7 +1182,7 @@
 @@||zensus2022.de/SiteGlobals/Modules/CookieBanner/*/CookieBanner.json?$~third-party,xmlhttprequest
 @@||zoo-frankfurt.de/bundles/chcookieconsent/js/cookie_consent.js$~third-party
 @@||zoominfo.com/_next/*/privacy-policy.json$~third-party
-! easylist-4 2026-03-28 19:04:52 UTC
+! easylist-4 2026-03-31 19:31:48 UTC
 ! https://easylist.to/easylist/easyprivacy.txt
 @@||10086.cn/framework/modules/sdc.js$script,~third-party
 @@||1trackapp.com/static/tracking/$script,stylesheet,~third-party
@@ -1540,7 +1543,7 @@
 @@||zillow.com/rental-manager/proxy/rental-manager-api/api/v1/users/freemium/analytics/pageViews$~third-party
 @@||zinro.net/m/log.php
 @@||zoominfo.com/c/amplitude-js$script,~third-party
-! easylist-5 2026-03-28 19:04:52 UTC
+! easylist-5 2026-03-31 19:31:48 UTC
 ! https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 @@||114la.com/|
 @@||17173im.allyes.com^
@@ -1626,5 +1629,5 @@
 @@||xmxing.net^
 @@||xsc.lise.edu.cn/ad/
 @@||zbj.com^
-! easylist-6 2026-03-28 19:04:53 UTC
+! easylist-6 2026-03-31 19:31:48 UTC
 ! https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt

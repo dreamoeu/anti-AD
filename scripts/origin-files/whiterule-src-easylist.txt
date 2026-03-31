@@ -30,6 +30,7 @@
 @@||ads.tiktok.com^$~third-party
 @@||ads.twitter.com^$popup
 @@||ads.vk.com^$popup
+@@||ads.vk.ru^$popup
 @@||ads.x.com^$popup
 @@||adsense.woso.cn^$~third-party
 @@||adv.asahi.com^$popup
