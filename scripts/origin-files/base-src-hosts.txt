@@ -5131,7 +5131,6 @@
 127.0.0.1 huodong.mobilem.360.cn
 127.0.0.1 huodonghezi.cn
 127.0.0.1 hv.code.tanwanyx.com
-127.0.0.1 hw.zuimeitianqi.com
 127.0.0.1 hwad.zuimeitianqi.com
 127.0.0.1 hwads-t.api.my7v.com
 127.0.0.1 hwgeneralins.com
