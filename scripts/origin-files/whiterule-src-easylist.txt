@@ -94,6 +94,7 @@
 @@||msn.wrating.com^
 @@||nodkey.xyz^$genericblock,generichide
 @@||ondemand.sas.com^$subdocument
+@@||open.video^$script,~third-party
 @@||optout.networkadvertising.org^$document
 @@||p.jwpcdn.com^$script
 @@||pass.1688.com^$subdocument
