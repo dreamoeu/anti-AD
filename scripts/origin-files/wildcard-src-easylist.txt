@@ -34,6 +34,7 @@
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||increase*-rev.static-cloudflare.workers.dev^
+||increase*rev.static-cloudflare.workers.dev^
 ||increase-rev*.static-cloudflare.workers.dev^
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
